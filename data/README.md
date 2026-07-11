@@ -2,6 +2,10 @@
 
 The notebook uses game-level NBA player statistics from `PlayerStatistics.csv`.
 
+## Dataset source
+
+**Kaggle:** [Add the PlayerStatistics dataset URL here](https://www.kaggle.com/datasets/eoinamoore/historical-nba-data-and-player-box-scores/data?select=PlayerStatistics.csv)
+
 Place the dataset in this directory before running the notebook:
 
 ```text
