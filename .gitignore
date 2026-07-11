@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local datasets
+data/*.csv
+data/*.parquet
+data/*.json
+!data/README.md
+
+# Generated model files
+*.joblib
+*.pkl
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+
+# Environment variables
+.env
+.env.*
